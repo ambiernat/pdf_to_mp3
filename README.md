@@ -13,7 +13,7 @@ To use it, you need to complete the following steps:
 
 
 📁 Clone this repository
-git clone https://github.com/lazycatcoder/pdf-to-mp3.git
+git clone https://github.com/ambiernat/pdf_to_mp3.git
 
 📦 Install dependencies
 pip install -r requirements.txt
