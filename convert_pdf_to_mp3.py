@@ -76,7 +76,7 @@ def main():
         except Exception as e:
             print(f"An error occurred: {e}")
 
-if 'google.colab' in str(get_ipython()):
-    main()
-else:
-    print('This code is intended to run in Google Colab.')
+# if 'google.colab' in str(get_ipython()):
+ #   main()
+#else:
+ #   print('This code is intended to run in Google Colab.')
